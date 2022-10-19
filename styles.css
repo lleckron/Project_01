@@ -12,3 +12,6 @@
     background: #000000;
 }
 
+.button:hover {
+    color: blue;
+}
